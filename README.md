@@ -21,5 +21,5 @@ Here's a snapshot of the technologies I'm proficient with or currently exploring
 
 Feel free to reach out or follow me on social media:
 
-- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/adrià-chillón-sánchez-31a6b5257)
+- **LinkedIn**: [My LinkedIn](www.linkedin.com/in/adrià-chillón-sánchez-31a6b5257)
 - **Email**: achillon28@gmail.com
