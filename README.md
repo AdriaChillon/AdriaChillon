@@ -17,16 +17,9 @@ Here's a snapshot of the technologies I'm proficient with or currently exploring
 - **Databases**: MySQL, MongoDB
 - **Web Technologies**: HTML5, CSS3, Bootstrap
 
-## 📊 My GitHub Stats
-
-Show off your GitHub stats with widgets that highlight your coding activity, contributions, and more. For instance:
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect
 
 Feel free to reach out or follow me on social media:
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/adrià-chillón-sánchez-31a6b5257)
+- **Email**: achillon28@gmail.com
