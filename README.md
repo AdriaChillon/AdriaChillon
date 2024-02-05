@@ -12,8 +12,8 @@ I'm on a journey of mastering the art of coding and data analytics, crafting pro
 Here's a snapshot of the technologies I'm proficient with or currently exploring:
 
 - **Programming Languages**: JavaScript, Python, SQL
-- **Frameworks & Libraries**: React, Node.js, Express.js
-- **Development Tools**: Git, Docker, Jenkins
+- **Frameworks & Libraries**: Laravel, Node.js, Django
+- **Development Tools**: Git, Docker
 - **Databases**: MySQL, MongoDB
 - **Web Technologies**: HTML5, CSS3, Bootstrap
 
