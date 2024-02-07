@@ -5,8 +5,6 @@ Hello there! I'm a 21-year-old student deeply engrossed in Web Development and d
 
 I'm on a journey of mastering the art of coding and data analytics, crafting projects that range from simple web applications to intricate data analysis tasks. You'll find my repositories in English, Spanish, and Catalan, showcasing my versatility and commitment to making technology accessible to a diverse audience.
 
-### Spotify GitHub Profile Integration
-
 ## 🛠️ My Tech Toolbox
 
 Here's a snapshot of the technologies I'm proficient with or currently exploring:
