@@ -10,14 +10,14 @@ I'm on a journey of mastering the art of coding and data analytics, crafting pro
 Here's a snapshot of the technologies I'm proficient with or currently exploring:
 
 - **Programming Languages**: JavaScript, Python, SQL
-- **Frameworks & Libraries**: Laravel, Node.js, Django
+- **Frameworks & Libraries**: Laravel, Node.js, Django, Angular
 - **Development Tools**: Git, Docker
-- **Databases**: MySQL, MongoDB
-- **Web Technologies**: HTML5, CSS3, Bootstrap
+- **Databases**: MySQL, MongoDB, Firebase
+- **Web Technologies**: HTML5, CSS3, Bootstrap, Tailwindcss
 
 ## 📫 Let's Connect
 
 Feel free to reach out or follow me on social media:
 
-- **LinkedIn**: [My LinkedIn](www.linkedin.com/in/adrià-chillón-sánchez-31a6b5257)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/adria-chillon)
 - **Email**: achillon28@gmail.com
